@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is David Ferrari and I'm a software developer and computer engineering student. I'm from Brazil, living in Salvador and currently working at Iteris. You can find me on [![LinkedIn][2.2]][2].
+My name is David Ferrari and I'm a software developer and computer engineering student. I'm from Brazil, living in Salvador and currently working at Nubank. You can find me on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=cb10c5)
