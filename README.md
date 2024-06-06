@@ -33,12 +33,6 @@ My name is David Ferrari and I'm a software developer and computer engineering s
 </p>
 
 
-<br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=redfoggg&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<hr>
-
-
 <h2 align="center">👨‍💻 Repositories</h2>
 <br>
 <div width="100%" align="center">
