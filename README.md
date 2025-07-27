@@ -5,7 +5,7 @@ I'm from Brazil, living in Salvador and currently working at Nubank as a Softwar
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfoggg&hide=tsql,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfoggg&hide=tsql,Cuda&exclude_repo=vim-sexp-fork-without-alt-binds&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
       
 [![LinkedIn][1.1]][1].
